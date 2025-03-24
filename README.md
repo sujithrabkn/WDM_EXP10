@@ -1,4 +1,4 @@
-[### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
+### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### DATE: 
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
@@ -33,4 +33,4 @@ RapidMiner provides data mining and machine learning procedures including: data 
 
 ### Result:
 Thus, sentimental analysis for the given data using Rapidminer is done successfully.
-](https://github.com/sujithrabkn/WDM_EXP9.git)
+
